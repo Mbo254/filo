@@ -4,7 +4,7 @@
 <a href="#"><img title="filo" src="https://img.shields.io/badge/filo-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/nexusNw"><img title="Author" src="https://img.shields.io/badge/Author-nexusNw-/filo?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/nexusNw"><img title="Author" src="https://img.shields.io/badge/Author-nmbo254exusNw-/filo?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 
